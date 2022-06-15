@@ -5,12 +5,13 @@
 ###### teste
 
 - olá, eu sou  @fabianopc12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+:+1: o meu email e fabiano.moi@escola.pr.gov.br
+
+👀 eu estou interessado em aprender novas liguagens de progamaçao
+
+- 🌱 eu estou recentemente aprendendo a progamar na lingugem java csript e scratch 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-fabianopc12/fabianopc12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
